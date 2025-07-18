@@ -1,0 +1,13 @@
+streamlit
+openai
+agno
+python-dotenv
+groq
+lance-db
+yfinance
+duckduckgo-search
+pypdf
+sqlalchemy
+psycopg
+pgvector
+google-genai
