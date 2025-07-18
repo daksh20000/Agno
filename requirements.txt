@@ -10,5 +10,4 @@ sqlalchemy
 psycopg
 pgvector
 google-genai
-scrapegraph-py  
-psycopg2                                                                    
+scrapegraph-py                                                                
