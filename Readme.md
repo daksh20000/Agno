@@ -41,3 +41,6 @@ This will launch the app in your browser.
 
 - Temporary uploaded files are cleaned up automatically after processing.
 - The database must be accessible and support pgvector extensions.
+
+## Video Link
+-https://drive.google.com/file/d/1uVdtHEZUhV2W34RgB4545iMQNrjLnsDj/view
